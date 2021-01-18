@@ -1,7 +1,9 @@
 # S-MST Image Segmentation
 A python implementation of the method described in the paper [Sequential image segmentation based on minimum spanning tree representation](https://www.sciencedirect.com/science/article/abs/pii/S0167865516301192).
 
+```
 "The C++ implementation (available in my repositories) is much faster than the python implementation."
+```
 
 
 ## Reference:
